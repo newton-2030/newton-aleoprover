@@ -2,6 +2,7 @@
 fast aleo prover with gpu accerlate 
 
 
-1.0.0 版本下载： 
+ubuntu 22.04 最新 版本下载： 
+https://github.com/newton-2030/newton-aleoprover/releases/tag/1.0.2
 
-https://github.com/newton-2030/newton-aleoprover/releases/tag/1.0.0
+
